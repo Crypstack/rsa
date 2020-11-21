@@ -1,6 +1,9 @@
 /*	
 	<<<<<<<< DOCUMENTACIÓN >>>>>>>>>
-
+	Ariel Bravo
+	Computación 3er semestre
+	16 octubre 2016
+	
 	Nota:
 	Dado que estoy haciendo uso de la clase BigInteger, el programa funciona adecuadamente con números
 	relativamente grandes. Por lo que si se usa algo como (21, 5) el resultado no será el esperado
