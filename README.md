@@ -10,10 +10,25 @@ To compile the code follow:
 Then execute:
 
 	java RSA n e wordToCrypt
+	or
+	java RSA1 n e wordToCrypt
+
 	e.g:
 	java RSA 2537 13 ariel
 
-Output example:
+Output for **RSA** example:
+
+	~$ java RSA 2537 13 STOP
+
+	Normal:         [1819, 1415]
+
+	Crypted:        [2182, 2081]
+
+	Decrypted:      [1819, 1415]
+
+Output for **RSA1** example:
+
+	~$ java RSA1 2537 13 ariel
 
 	p: 43
 	q: 59
